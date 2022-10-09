@@ -61,7 +61,7 @@
 
 <!-- top languages that is used -->
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfersoyr&show_icons=true&locale=en&layout=compact" alt="mfersoy" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfersoy&show_icons=true&locale=en&layout=compact" alt="mfersoy" />
 </p>
 
 <!--  github stats  -->
