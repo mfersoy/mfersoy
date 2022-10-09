@@ -4,21 +4,21 @@
 
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=selimdoner&label=Profile%20views&color=0e75b6&style=flat" alt="selimdoner" /> 
+	<img src="https://komarev.com/ghpvc/?username=mfersoy&label=Profile%20views&color=0e75b6&style=flat" alt="mfersoy" /> 
 </p>
 
 <!-- trophies. replace username with yours-->
 <p align="left"> 
-	<a href="https://github.com/selimdoner">
-		<img src="https://github-profile-trophy.vercel.app/?username=selimdoner" alt="selimdoner" />
+	<a href="https://github.com/mfersoy">
+		<img src="https://github-profile-trophy.vercel.app/?username=mfersoy" alt="mfersoy" />
 	</a> 
 </p>
 
 <!--  Contact me links. replace href with your linkedin link. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/selim-doner-softwaredeveloper/" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selimdoner" height="30" width="40" />
+<a href="https://www.linkedin.com/in/fatih-ersoy-softwaredeveloper/" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfersoy" height="30" width="40" />
 </a>
 </p>
 
@@ -61,17 +61,17 @@
 
 <!-- top languages that is used -->
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimdoner&show_icons=true&locale=en&layout=compact" alt="selimdoner" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfersoyr&show_icons=true&locale=en&layout=compact" alt="mfersoy" />
 </p>
 
 <!--  github stats  -->
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimdoner&show_icons=true&locale=en" alt="selimdoner" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfersoy&show_icons=true&locale=en" alt="mfersoy" />
 </p>
 
 <!-- streak stats  -->
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimdoner&" alt="selimdoner" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfersoy&" alt="mfersoy" />
 </p>
 
 
